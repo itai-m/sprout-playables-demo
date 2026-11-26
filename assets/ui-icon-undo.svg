@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <!-- Option A: single filled silhouette — left arrowhead + thick arc over the top, round tail -->
+  <path
+    fill="#5D4037"
+    d="
+      M 8 24
+      L 20.5 13.2
+      Q 23.2 11.2 23.2 14.6
+      L 23.2 17.6
+      L 25.5 17.6
+      C 35.2 17.6 41.2 24.2 41.2 33.6
+      A 3.5 3.5 0 0 1 34.2 33.6
+      C 34.2 27.4 30.4 24.2 25.5 24.2
+      L 23.2 24.2
+      L 23.2 33.4
+      Q 23.2 36.8 20.5 34.8
+      Z
+    "
+  />
+</svg>
